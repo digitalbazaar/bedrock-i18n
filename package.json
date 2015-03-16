@@ -2,7 +2,7 @@
   "name": "bedrock-i18n",
   "version": "0.1.1-dev",
   "description": "Bedrock internationalization module",
-  "main": "index.js",
+  "main": "./lib/i18n",
   "scripts": {
     "test": "node test.js"
   },
@@ -33,6 +33,5 @@
   },
   "directories": {
     "lib": "./lib"
-  },
-  "main": "./lib/i18n"
+  }
 }
