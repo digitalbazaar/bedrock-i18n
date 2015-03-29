@@ -30,7 +30,7 @@ bedrock.start();
 
 ## Configuration
 
-For more documentation on configuration see [config.js](https://github.com/digitalbazaar/bedrock-i18n/blob/master/lib/config.js).
+For more documentation on configuration see [config.js](./lib/config.js).
 
 
 [bedrock]: https://github.com/digitalbazaar/bedrock
