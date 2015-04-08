@@ -1,6 +1,6 @@
 {
   "name": "bedrock-i18n",
-  "version": "0.1.1-dev",
+  "version": "1.0.0",
   "description": "Bedrock internationalization module",
   "main": "./lib/i18n",
   "scripts": {
@@ -29,7 +29,7 @@
     "walk": "~2.2.1"
   },
   "peerDependencies": {
-    "bedrock": "~0.3.0"
+    "bedrock": "^1.0.0"
   },
   "directories": {
     "lib": "./lib"
