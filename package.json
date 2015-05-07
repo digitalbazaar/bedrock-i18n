@@ -1,6 +1,6 @@
 {
   "name": "bedrock-i18n",
-  "version": "1.0.1",
+  "version": "1.0.2-dev",
   "description": "Bedrock internationalization module",
   "main": "./lib/i18n",
   "scripts": {
