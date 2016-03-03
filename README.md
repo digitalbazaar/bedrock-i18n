@@ -12,6 +12,10 @@ with an `Accept-Language` header, if the matching language is in the cache and
 the requested URL matches a path in that directory, the language-specific file
 is returned in the response.
 
+## Requirements
+
+- npm v3+
+
 ## Quick Examples
 
 ```
