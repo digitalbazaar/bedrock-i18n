@@ -1,5 +1,8 @@
 # bedrock-i18n ChangeLog
 
+### Changed
+- Update for lastest bedrock events API.
+
 ## 2.0.1 - 2016-03-15
 
 ### Changed
