@@ -1,5 +1,7 @@
 # bedrock-i18n ChangeLog
 
+## 2.0.3 - 2019-11-07
+
 ### Fixed
 - Fix dependency.
 
