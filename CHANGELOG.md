@@ -1,5 +1,7 @@
 # bedrock-i18n ChangeLog
 
+## 2.0.2 - 2019-11-07
+
 ### Changed
 - Update for lastest bedrock events API.
 
