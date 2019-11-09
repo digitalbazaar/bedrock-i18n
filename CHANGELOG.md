@@ -1,5 +1,8 @@
 # bedrock-i18n ChangeLog
 
+### Changed
+- Update max bedrock dependency.
+
 ## 2.0.3 - 2019-11-07
 
 ### Fixed

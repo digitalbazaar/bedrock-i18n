@@ -29,7 +29,7 @@
     "walk": "~2.2.1"
   },
   "peerDependencies": {
-    "bedrock": "1.0.0 - 2.x"
+    "bedrock": "1.0.0 - 3.x"
   },
   "directories": {
     "lib": "./lib"
