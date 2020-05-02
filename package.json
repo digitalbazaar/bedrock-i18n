@@ -4,7 +4,9 @@
   "description": "Bedrock internationalization module",
   "main": "./lib/i18n",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -26,12 +28,14 @@
   "dependencies": {
     "async": "^2.6.3",
     "i18n": "~0.4.0",
-    "walk": "~2.2.1"
+    "walk": "~2.2.1",
+    "snyk": "^1.316.2"
   },
   "peerDependencies": {
     "bedrock": "1.0.0 - 3.x"
   },
   "directories": {
     "lib": "./lib"
-  }
+  },
+  "snyk": true
 }
